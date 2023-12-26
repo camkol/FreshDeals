@@ -11,3 +11,4 @@
 -Added SASS
 -Made Responsive
 -Improving responsiveness
+-Worked on images and made self-sufficient
