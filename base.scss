@@ -251,21 +251,31 @@ footer {
     header {
       width: 90%;
       padding: 0.75rem 0.5rem;
-      .search-bar {
-      }
     }
     #main {
       padding: 1rem;
       max-width: 100%;
-      form {
+      #jobsForm {
         display: contents;
+        .field {
+          margin-bottom: 1rem;
+        }
+        a {
+          margin-bottom: 1rem;
+        }
       }
-      .job-list {
-        .job {
-          //max-width: 320px;
+      .products {
+        padding: 0 1rem;
+      }
+
+      .information {
+        padding: 1rem;
+        .join {
+          padding: 1.5rem;
         }
       }
     }
+
     footer {
       padding: 1.5rem 0;
     }

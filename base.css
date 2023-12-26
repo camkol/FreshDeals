@@ -264,8 +264,23 @@ footer a {
     padding: 1rem;
     max-width: 100%;
   }
-  .container #main form {
+  .container #main #jobsForm {
     display: contents;
+  }
+  .container #main #jobsForm .field {
+    margin-bottom: 1rem;
+  }
+  .container #main #jobsForm a {
+    margin-bottom: 1rem;
+  }
+  .container #main .products {
+    padding: 0 1rem;
+  }
+  .container #main .information {
+    padding: 1rem;
+  }
+  .container #main .information .join {
+    padding: 1.5rem;
   }
   .container footer {
     padding: 1.5rem 0;
