@@ -10,3 +10,4 @@
 
 -Added SASS
 -Made Responsive
+-Improving responsiveness

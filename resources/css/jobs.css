@@ -45,9 +45,3 @@ form {
   justify-self: center;
   margin-top: 3.6875rem;
 }
-
-@media only screen and (max-width: 490px) {
-  .jobs {
-    padding: 1rem;
-  }
-}

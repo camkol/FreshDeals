@@ -256,4 +256,18 @@ footer a {
   .hero {
     padding-bottom: 4rem;
   }
+  .container header {
+    width: 90%;
+    padding: 0.75rem 0.5rem;
+  }
+  .container #main {
+    padding: 1rem;
+    max-width: 100%;
+  }
+  .container #main form {
+    display: contents;
+  }
+  .container footer {
+    padding: 1.5rem 0;
+  }
 }/*# sourceMappingURL=base.css.map */
